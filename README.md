@@ -11,7 +11,7 @@ Positive movement suggests to go long on stock (buy) and negative movement sugge
 
 ## VISUALIZING THE DATA :
 'Movement' as defined earlier is difference of closing and opening prices of a particular day.
-The variation of 'movement' of companies (amazon, apple) in the time period from 2015–01–02 to 2015–02–13 is plotted.
+The variation of 'movement' of companies (amazon, apple) in the time period from 2015–01–01 to 2017–02–01 is plotted.
 
 ## Need of Normailzation
 Stock prices of some companies have different scales. The goal of Normalization is to change the value of numeric columns in the dataset to a common scale without distorting differences in the range of values.
